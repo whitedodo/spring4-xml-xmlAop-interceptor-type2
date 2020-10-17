@@ -44,7 +44,11 @@
 #####    (Pages were managed with preHandler and postHandler with Spring Interceptor.)
 
 ### 2. 시연(Practice)
-##### 1. 
+##### 1. Spring Framework 4.2.4, Mybatis, xml,xml Mapper(방법1 -  applicationContext.xml) - 1부, https://youtu.be/4NM41WXT36o, Accessed by 2020-10-17, Last Modified 2020-10-17.
+##### 2. Spring Framework 4.2.4, Mybatis, xml,xml Mapper(방법1 -  applicationContext.xml) - 2부, https://youtu.be/1cooUaA92cQ, Accessed by 2020-10-17, Last Modified 2020-10-17.
+##### 3. Spring Framework 4.2.4, Mybatis, xml,xml Mapper(방법2 -  root-context.xml) - 1부, https://youtu.be/MEc_m2rm6ZU, Accessed by 2020-10-17, Last Modified 2020-10-17.
+##### 4. Spring Framework 4.2.4, Mybatis, fileupload(Commons-io, Commons-FileUpload), https://youtu.be/vSzQqhK0csA, Accessed by 2020-10-17, Last Modified 2020-10-17.
+##### 5. Spring Framework 4.2.4, Mybatis, xml mapper, xml, JSON Simple, https://youtu.be/bS9yG06sUoc, Accessed by 2020-10-17, Last Modified 2020-10-17.
 
 ### 3. 참고자료(References)
 ##### 1. MyBatis - 마이바티스 3 | 매퍼 XML 파일, https://mybatis.org/mybatis-3/ko/sqlmap-xml.html, Accessed by 2020-10-12, Last Modified 2020-07-10.
